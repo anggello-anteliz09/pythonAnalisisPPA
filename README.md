@@ -1,1 +1,1 @@
-Desarrollo de Script de analisis de sentimientos en python, primeros avances
+Desarrollo de Script de analisis meteorologicos y climaticos en python, primeros avances
